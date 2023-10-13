@@ -2,7 +2,7 @@
 Java CMD progtam for printing Fibonacci series from 0 to input value(number_Of_Series) with a recursive method.    
 using Java version 1.8.0  
 
-Run the program typing :  
+Run the program using :  
 "javac CMD_Fibonacci_Recursive.java"  
 then   
 "java CMD_Fibonacci_Recursive"   
