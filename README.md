@@ -7,11 +7,11 @@ Run the program typing :
 then   
 "java CMD_Fibonacci_Recursive"   
 in Windows CMD   
-while CMD is in the CMD-Fibonacci-recursive.java directory     
+while CMD is in the CMD-Fibonacci-recursive-Java directory     
   
 You can see the program document using :    
 "javadoc CMD_Fibonacci_Recursive.java"   
- while CMD is in the CMD-Fibonacci-recursive.java directory    
+ while CMD is in the CMD-Fibonacci-recursive-Java directory    
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
